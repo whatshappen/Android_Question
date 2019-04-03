@@ -52,3 +52,9 @@ Android开发中的屏幕适配方案？
 
 #### 面试题15.
 多线程中sleep和wait的区别？
+
+#### 面试题16.
+输出字符串中的第一个不重复的字符，例如：<br/>
+	&nbsp; &nbsp;“hello”输出 ‘h’<br/>
+	&nbsp; &nbsp;“abbac”输出 ‘c’<br/>
+	&nbsp; &nbsp;“abdabe”输出 ‘d’
