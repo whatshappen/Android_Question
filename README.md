@@ -69,3 +69,38 @@ Android开发中的屏幕适配方案？
 
 #### 面试题19.
 ThreadLocal作用？
+
+#### 面试题20.
+深复制（深拷贝）与浅复制（浅拷贝）的区别？
+
+#### 面试题21.
+大图的局部加载（BitmapRegionDecoder），在不使用BitmapRegionDecoder类的情况下，自己实现局部加载？
+
+#### 面试题22.
+常见的排序算法？手写快排？对冒泡排序的优化？
+
+#### 面试题23.
+在使用git管理时，commit到本地库后，发现漏了文件，如何处理？（rebase命令合并两次commit的数据）
+
+#### 面试题24.
+kotlin中的内联函数
+
+#### 面试题25.
+kotlin中的两种懒加载区别？（by lazy、lateinit）
+
+#### 面试题26.
+kotlin中扩展函数的弊端？
+
+#### 面试题27.
+在使用kotlin开发过程中，遇到过哪些坑？
+
+#### 面试题28.
+Activity中的context与Application中的context区别？
+
+#### 面试题29.
+Activity的四种启动模式？当A配置了singleTask启动模式后，A-->B-->C-->D ，此时再启动A，会回调哪个方法？（onNewIntent()生命周期方法）
+
+#### 面试题30.
+Activity与Activity之间传递数据？<br/>
+Fragment与Activity之间传递数据？<br/>
+Fragment与Fragment之间传递数据？<br/>
