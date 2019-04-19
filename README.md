@@ -108,3 +108,18 @@ Fragment与Fragment之间传递数据？<br/>
 
 #### 面试题31.
 Activity的启动过程？（不是Activity的生命周期，或者换一种问法：应用的启动过程？）
+
+#### 面试题32.
+js与native互调？安全问题处理？WebView对url的拦截？
+
+
+###### 源码相关问题（可以在博客上找到相关资料）：
+#### OkHttp源码/原理分析？
+
+#### Retrofit源码/原理分析？
+
+#### EventBus源码/原理分析？
+
+#### Rxjava源码/原理分析？（还有一次被问到Rxjava的调度器与worker关系？（----当时表示一脸懵逼😂））
+
+#### Glide源码/原理分析？（Glide、ImageLoader、Picasso、Fresco各种的优缺点？Glide的缓存处理）
