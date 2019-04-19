@@ -104,3 +104,7 @@ Activity的四种启动模式？当A配置了singleTask启动模式后，A-->B--
 Activity与Activity之间传递数据？<br/>
 Fragment与Activity之间传递数据？<br/>
 Fragment与Fragment之间传递数据？<br/>
+
+
+#### 面试题31.
+Activity的启动过程？（不是Activity的生命周期，或者换一种问法：应用的启动过程？）
